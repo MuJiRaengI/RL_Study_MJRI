@@ -76,6 +76,8 @@ python study3/test.py
 
 ![study3 테스트 결과](image/study3_test_results.png)
 
+전처리/보상 방식에 따른 성능 비교는 [이 글](https://cafe.naver.com/mjri/197)을 참고하세요.
+
 ### study1/2와의 차이점
 
 | | study1/2 | study3 |
