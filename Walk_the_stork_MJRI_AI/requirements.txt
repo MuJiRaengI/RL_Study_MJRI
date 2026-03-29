@@ -1,6 +1,0 @@
-gymnasium
-gymnasium[atari]
-stable-baselines3[extra]
-pywin32
-mss
-easyocr

@@ -1,8 +1,0 @@
-LEFT_ARROW = 0
-STOP = 1
-RIGHT_ARROW = 2
-
-DIE = 0
-LIVE = 1
-GOAL = 2
-UNKNOWN = -1
